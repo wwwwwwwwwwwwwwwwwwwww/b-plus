@@ -1,0 +1,5 @@
+$ ssh -T git@github.com
+# Attempt to SSH in to github
+Hi username! You've successfully authenticated, but GitHub does not provide
+shell access.
+@sorry for that
