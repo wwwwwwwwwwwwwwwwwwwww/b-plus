@@ -1,4 +1,5 @@
 $ ssh -T git@github.com
+$ curl 'https://api.github.com/user/repos?page=2&per_page=100'
 # Attempt to SSH in to github
 Hi username! You've successfully authenticated, but GitHub does not provide
 shell access.
