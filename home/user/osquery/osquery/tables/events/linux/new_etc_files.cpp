@@ -1,0 +1,1 @@
+-$ broker::endpoint::incoming_connection_status() const' /home/user/osquery/osquery/tables/events/linux/new_etc_files.cpp: "URL:Callto Protocol"
